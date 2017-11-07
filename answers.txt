@@ -1,4 +1,4 @@
-01 RB
+01 RB Motherboard, processor, input, output
 
 
 02 OB
@@ -7,7 +7,7 @@
 03 AJ
 
 
-04 RB
+04 RB A standard website that a web browser navigates to by default.
 
 
 05 OB
@@ -16,7 +16,7 @@
 06 AJ
 
 
-07 RB
+07 RB Ada Byron (AKA Ada Lovelace) wrote the first computer program, which computed Bernoulli numbers.
 
 
 08 OB
@@ -25,7 +25,7 @@
 09 AJ
 
 
-10 RB
+10 RB A modulator-demodulator (otherwise known as a modem) is a device that allows a computer to transmit data over long distances.
 
 
 11 OB
@@ -44,7 +44,7 @@
 12 AJ
 
 
-13 RB
+13 RB 1991
 
 
 14 OB
@@ -53,7 +53,7 @@
 15 AJ
 
 
-16 RB
+16 RB 700 MB. The largest form of storage is a portable media player, which has at least 1TB of storage. USBs are, however, getting close, with one model approaching 1TB of storage.
 
 
 17 OB 
@@ -62,7 +62,7 @@
 18 AJ
 
 
-19 RB
+19 RB Keyboard, monitor, speaker.
 
 
 20 OB
@@ -71,7 +71,7 @@
 21 AJ
 
 
-22 RB
+22 RB He invented the microprocessor, a device that shrunk the size of the average computer.
 
 
 23 OB
@@ -80,4 +80,4 @@
 24 AJ
 
 
-25 RB
+25 RB 
