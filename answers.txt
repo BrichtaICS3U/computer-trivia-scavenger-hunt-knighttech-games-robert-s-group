@@ -1,0 +1,84 @@
+01 RB
+
+
+02 OB
+
+
+03 AJ
+
+
+04 RB
+
+
+05 OB
+
+
+06 AJ
+
+
+07 RB
+
+
+08 OB
+Intel uses purified Silicon ingots sliced into discs called for their wafers.
+
+09 AJ
+
+
+10 RB
+
+
+11 OB
+bit = binary digit
+8 bits = byte
+2 nibbles = byte
+An adjective used to describe hardware, denotes willingness to compute or pass data in either big-endian or little-endian format (depending, presumably, on a mode bit somewhere)
+kilobyte = 1000 bytes
+megabyte = 1000 kilobytes
+gigabyte = 1000 megabytes
+terabyte = 1000 gigabytes
+
+
+
+
+
+12 AJ
+
+
+13 RB
+
+
+14 OB
+the "Declaration of Independence"
+
+15 AJ
+
+
+16 RB
+
+
+17 OB 
+the computer mouse, windows, shared-screen teleconferencing, hypermedia, groupware, and more.
+
+18 AJ
+
+
+19 RB
+
+
+20 OB
+graphical user interface 
+
+21 AJ
+
+
+22 RB
+
+
+23 OB
+10^9 floating point operations per second
+
+24 AJ
+
+
+25 RB
