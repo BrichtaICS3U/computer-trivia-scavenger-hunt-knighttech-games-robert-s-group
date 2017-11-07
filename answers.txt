@@ -4,7 +4,7 @@
 02 OB
 
 
-03 AJ
+03 AJ Handshaking is an automated process of negotiation that dynamically sets parameters of a communications channel established between two entities before normal communication over the channel begins.
 
 
 04 RB
@@ -13,7 +13,7 @@
 05 OB
 
 
-06 AJ
+06 AJ  ENIAC (Electronic Numerical Integrator Analyzer and Computer) was a giant computer with 17,468 vacuum tubes, 70,000 resistors, 10,000 capacitors, 1,500 relays, and 6,000 manual switches. It took 18 months to build. It was built in 1945. it costed $500 000.
 
 
 07 RB
@@ -22,7 +22,7 @@
 08 OB
 
 
-09 AJ
+09 AJ Cleanroom technicians must wear "bunny suits" while making computer chips. These suits keep contaminants away from the chips.
 
 
 10 RB
@@ -41,7 +41,7 @@
 
 
 
-12 AJ
+12 AJ The apranet was made in 1966. Today we use the internet.
 
 
 13 RB
@@ -50,8 +50,8 @@
 14 OB
 
 
-15 AJ
-
+15 AJ A USB flash drive is an external flash drive, small enough to carry on a key ring, that can be used with any computer that has a USB port.
+An example for a use of one is for sharing data between computers.
 
 16 RB
 
@@ -59,7 +59,7 @@
 17 OB 
 
 
-18 AJ
+18 AJ A computer virus is a program designed to spread itself by first infecting executable files or the system areas of hard and floppy disks and then making copies of itself.  Viruses usually operate without the knowledge or desire of the computer user.
 
 
 19 RB
@@ -68,7 +68,7 @@
 20 OB
 
 
-21 AJ
+21 AJ A dvorak keyboard is an alternate way of arranging the keys on the keyboard. They are arranged in order of how often the letters are used. An advandatge to this is that is may reduce injuries such as wrist pain and carpal tunnel.
 
 
 22 RB
@@ -77,7 +77,7 @@
 23 OB
 
 
-24 AJ
+24 AJ Project delphi teaches dolphins hopw to use computers.
 
 
 25 RB
