@@ -1,4 +1,4 @@
-01 RB
+01 RB Motherboard, processor, input, output
 
 
 02 OB
@@ -7,7 +7,7 @@
 03 AJ Handshaking is an automated process of negotiation that dynamically sets parameters of a communications channel established between two entities before normal communication over the channel begins.
 
 
-04 RB
+04 RB A standard website that a web browser navigates to by default.
 
 
 05 OB
@@ -16,7 +16,7 @@
 06 AJ  ENIAC (Electronic Numerical Integrator Analyzer and Computer) was a giant computer with 17,468 vacuum tubes, 70,000 resistors, 10,000 capacitors, 1,500 relays, and 6,000 manual switches. It took 18 months to build. It was built in 1945. it costed $500 000.
 
 
-07 RB
+07 RB Ada Byron (AKA Ada Lovelace) wrote the first computer program, which computed Bernoulli numbers.
 
 
 08 OB
@@ -25,7 +25,7 @@
 09 AJ Cleanroom technicians must wear "bunny suits" while making computer chips. These suits keep contaminants away from the chips.
 
 
-10 RB
+10 RB A modulator-demodulator (otherwise known as a modem) is a device that allows a computer to transmit data over long distances.
 
 
 11 OB
@@ -44,7 +44,7 @@
 12 AJ The apranet was made in 1966. Today we use the internet.
 
 
-13 RB
+13 RB 1991
 
 
 14 OB
@@ -53,7 +53,7 @@
 15 AJ A USB flash drive is an external flash drive, small enough to carry on a key ring, that can be used with any computer that has a USB port.
 An example for a use of one is for sharing data between computers.
 
-16 RB
+16 RB 700 MB. The largest form of storage is a portable media player, which has at least 1TB of storage. USBs are, however, getting close, with one model approaching 1TB of storage.
 
 
 17 OB 
@@ -62,7 +62,7 @@ An example for a use of one is for sharing data between computers.
 18 AJ A computer virus is a program designed to spread itself by first infecting executable files or the system areas of hard and floppy disks and then making copies of itself.  Viruses usually operate without the knowledge or desire of the computer user.
 
 
-19 RB
+19 RB Keyboard, monitor, speaker.
 
 
 20 OB
@@ -71,7 +71,7 @@ An example for a use of one is for sharing data between computers.
 21 AJ A dvorak keyboard is an alternate way of arranging the keys on the keyboard. They are arranged in order of how often the letters are used. An advandatge to this is that is may reduce injuries such as wrist pain and carpal tunnel.
 
 
-22 RB
+22 RB He invented the microprocessor, a device that shrunk the size of the average computer.
 
 
 23 OB
@@ -80,4 +80,4 @@ An example for a use of one is for sharing data between computers.
 24 AJ Project delphi teaches dolphins hopw to use computers.
 
 
-25 RB
+25 RB 
