@@ -2,7 +2,7 @@
 
 
 02 OB
-
+no site
 
 03 AJ Handshaking is an automated process of negotiation that dynamically sets parameters of a communications channel established between two entities before normal communication over the channel begins.
 
@@ -11,7 +11,7 @@
 
 
 05 OB
-
+no site
 
 06 AJ  ENIAC (Electronic Numerical Integrator Analyzer and Computer) was a giant computer with 17,468 vacuum tubes, 70,000 resistors, 10,000 capacitors, 1,500 relays, and 6,000 manual switches. It took 18 months to build. It was built in 1945. it costed $500 000.
 
