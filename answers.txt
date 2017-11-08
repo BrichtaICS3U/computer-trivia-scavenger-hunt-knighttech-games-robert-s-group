@@ -42,7 +42,7 @@ terabyte = 1000 gigabytes
 
 
 
-12 AJ The apranet was made in 1966. Today we use the internet.
+12 AJ The arpanet was made in 1966. Today we use the internet.
 
 
 13 RB 1991
